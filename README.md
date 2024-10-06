@@ -1,4 +1,4 @@
-# Portugueser Version --
+# Portuguese Version --
 # Carbon Wallet
 
 ## Problema
